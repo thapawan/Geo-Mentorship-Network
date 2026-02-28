@@ -28,9 +28,9 @@ Everything here is **free** and **community-first**.
 ## 👤 Who This Is For
 
 - First‑generation students  
-- International students  
+- National and International students  
 - Youth from underserved/underrepresented communities  
-- Students entering **GIS, UAVs, Remote Sensing, STEM**  
+- Students entering **GIS, UAVs, Surveying, Fluvial Geomorphology, Geomatics, Geoinformaics, Remote Sensing, STEM**  
 - Anyone who feels **lost, unheard, or without guidance**
 
 If that’s you: **You’re in the right place.**
