@@ -2,7 +2,7 @@
 
 **Empowering underserved, unheard, and underrepresented youth** with guidance, clarity, and confidence — through mentorship that is practical, compassionate, and free.
 
-> “Every young person deserves someone who says: *You belong here.*” — Pawan Thapa
+> “Every young person deserves someone who says: *You belong here.*”
 
 ---
 
@@ -160,19 +160,3 @@ If you adapt materials, please **credit the initiative**.
 I know what it feels like to start from zero.  
 This initiative exists so that **you don’t have to walk alone**.  
 If you’re a mentee, mentor, or supporter — **welcome home**.
-
-# Mentee Application (Short)
-
-**Why you’re here (2–3 sentences):**  
-**Top 2–3 goals (3 months):**  
-**Areas you need help with:** (pick any)  
-- Education & career planning
-- Scholarships & applications
-- GIS / UAVs / Remote Sensing
-- Communication & confidence
-- Study abroad
-- Other: _________
-
-**Availability (days/times + timezone):**  
-**Anything else you want to share:**  
-
