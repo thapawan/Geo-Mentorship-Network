@@ -1,6 +1,6 @@
 # Geo Mentorship Initiative
 
-**Empowering underserved, unheard, and underrepresented youth** with guidance, clarity, and confidence — through mentorship that is practical, compassionate, and free.
+**Empowering underserved, unheard, and underrepresented youth** with guidance, clarity, and confidence through mentorship that is practical, compassionate, and free.
 
 > “Every young person deserves someone who says: *You belong here.*”
 
